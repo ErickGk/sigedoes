@@ -15,11 +15,11 @@
 }
 
 h1 {
-  color: #450b19;
+  color: #002147;
 }
 
 .text-color-sigese {
-  color: #450b19;
+  color: #002147;
 }
 
 
@@ -52,11 +52,11 @@ h1 {
   padding: 10px;
   outline: none;
   border: none;
-  color: #450b19;
+  color: #002147;
   font-size: 1em;
   background: transparent;
-  border-left: 2px solid #450b19;
-  border-bottom: 2px solid #450b19;
+  border-left: 2px solid #002147;
+  border-bottom: 2px solid #002147;
   transition: 0.1s;
   border-bottom-left-radius: 8px;
 }
@@ -72,7 +72,7 @@ h1 {
   padding: 10px;
   pointer-events: none;
   font-size: 12px;
-  color: #450b19;
+  color: #002147;
   text-transform: uppercase;
   transition: 0.5s;
   letter-spacing: 3px;
@@ -82,7 +82,7 @@ h1 {
   height: 45px;
   width: 110px;
   border-radius: 5px;
-  border: 2px solid #450b19;
+  border: 2px solid #002147;
   cursor: pointer;
   background-color: transparent;
   transition: 0.5s;
@@ -102,7 +102,7 @@ h1 {
     transform: translateX(280%) translateY(-15px);
     font-size: 0.8em;
     padding: 5px 10px;
-    background: #450b19;
+    background: #002147;
     letter-spacing: 0.2em;
     color: #fff;
     border: 2px;
@@ -114,7 +114,7 @@ h1 {
   transform: translateX(285.5%) translateY(-15px);
   font-size: 0.8em;
   padding: 5px 10px;
-  background: #450b19;
+  background: #002147;
   letter-spacing: 0.2em;
   color: #fff;
   border: 2px;
@@ -126,7 +126,7 @@ h1 {
     transform: translateX(205%) translateY(-15px);
     font-size: 0.8em;
     padding: 5px 10px;
-    background: #450b19;
+    background: #002147;
     letter-spacing: 0.2em;
     color: #fff;
     border: 2px;
@@ -151,13 +151,13 @@ h1 {
 .inputBox-2 input:focus,
 .inputBox-3 input:valid,
 .inputBox-3 input:focus {
-  border-bottom: 2px solid #450b19;
-  border-left: 2px solid #450b19;
+  border-bottom: 2px solid #002147;
+  border-left: 2px solid #002147;
 
 }
 .className {
   /* Your CSS styles here */
-  border: 2px solid #450b19;
+  border: 2px solid #002147;
   border-radius: 8px;
 }
 
