@@ -16,6 +16,7 @@ export class LoginComponent implements OnInit {
 
   titulo = "Inicio de Sesión";
   tecnm = '.././assets/img/tecnm.png';
+  LogTecnm = '.././assets/img/Logo-TecNM.png';
   forgotimg = '.././assets/img/forgotp.png';
   usuario = { "nombre": "", "pass": "" };
 
