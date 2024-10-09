@@ -15,7 +15,7 @@ import { NavegacionService } from 'src/app/service/navegacion.service';
 export class LoginComponent implements OnInit {
 
   titulo = "Inicio de Sesión";
-  logoCbtis = '.././assets/img/inicio.png';
+  tecnm = '.././assets/img/tecnm.png';
   forgotimg = '.././assets/img/forgotp.png';
   usuario = { "nombre": "", "pass": "" };
 

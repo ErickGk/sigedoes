@@ -1,5 +1,5 @@
 .bg-sigese2 {
-  background-color: #f1dfc9;
+  background-color: #fbfbfb;
 }
 
 
@@ -33,7 +33,7 @@ h1 {
   gap: 35px;
   border-radius: 15px;
   background: bg-sigese2;
-  box-shadow: 16px 16px 32px #450b44, -16px -16px 32px #cbcaca;
+  box-shadow: 16px 16px 32px #002147, -16px -16px 32px #cbcaca;
   border-radius: 70px;
 }
 
